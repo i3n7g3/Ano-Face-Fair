@@ -21,14 +21,14 @@ We propose **Ano-Face-Fair**, a text-to-face synthesis using a Diffusion Model t
 <be>
 
 ## 💡 Colab Demo
-Try out our colab demo here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fh2c1/Anonymize-Anyone/blob/main/demo_anonymize_anyone.ipynb)
+Try out our colab demo here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y44U7VEQkscBTUjLVDMbfQMMBgZYp2JV?usp=sharing)
 
 ## 💡 Model Checkpoints
 Check out our models on Hugging Face:
 
-[![Anonymize-Anyone](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Anonymize--Anyone-blue)](https://huggingface.co/fh2c1/Anonymize-Anyone)
+[![Ano-Face-Fair](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Anonymize--Anyone-blue)](https://huggingface.co/i3n7g3/Ano-Face-Fair)
 
-[![SimPO-LoRA](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-SimPO--LoRA-blue)](https://huggingface.co/fh2c1/SimPO-LoRA-1.2)
+[![SimPO-LoRA](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-SimPO--LoRA-blue)](https://huggingface.co/i3n7g3/SimPO-LoRA-Diffusion)
 
 
 ## :heavy_check_mark: Updates
