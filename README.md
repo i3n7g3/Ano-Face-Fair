@@ -26,7 +26,7 @@ Try out our colab demo here [![Open In Colab](https://colab.research.google.com/
 ## 💡 Model Checkpoints
 Check out our models on Hugging Face:
 
-[![Ano-Face-Fair](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Anonymize--Anyone-blue)](https://huggingface.co/i3n7g3/Ano-Face-Fair)
+[![Ano-Face-Fair](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Ano-Face-Fair-blue)](https://huggingface.co/i3n7g3/Ano-Face-Fair)
 
 [![SimPO-LoRA](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-SimPO--LoRA-blue)](https://huggingface.co/i3n7g3/SimPO-LoRA-Diffusion)
 
