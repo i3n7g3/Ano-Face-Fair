@@ -42,8 +42,8 @@ Check out our models on Hugging Face:
 ### Environment
 
 ```bash
-conda create -n anonymize python=3.10.13
-conda activate anonymize
+conda create -n ano-face-fair python=3.10.13
+conda activate ano-face-fair
 
 git clone https://github.com/i3n7g3/Ano-Face-Fair.git
 pip install peft
@@ -103,7 +103,7 @@ export INSTANCE_DIR="path-to-instance-images"
 export DIFFERENCE_DIR="path-to-difference-images"
 export OUTPUT_DIR="path-to-save-model"
 
-accelerate launch ./train_anonymize_inpaint.py \
+accelerate launch ./train_ano-face-fair_inpaint.py \
   --pretrained_model_name_or_path=$MODEL_NAME  \
   --train_text_encoder \
   --instance_data_dir=$INSTANCE_DIR \
